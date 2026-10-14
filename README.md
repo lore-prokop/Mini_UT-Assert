@@ -1,8 +1,8 @@
 #  Mini_UT-Assert
 
-================================================================================
-Readme.txt:  Mini UT-Assert Unit Test Framework
-================================================================================
+--------------------------------------------------------------------------------
+Mini UT-Assert Unit Test Framework
+--------------------------------------------------------------------------------
 Version: 1.0  
 Date: 2026-10-14
 
@@ -89,8 +89,9 @@ Contributions are welcome to expand or fix this. Please contact author.
 --------------------------------------------------------------------------------
 8. LICENSE
 --------------------------------------------------------------------------------
-NASA Open Source License
-Please see the file ut-assert_nosa.pdf for more details.
+NASA Open Source Agreement (NOSA) License
+
+Please see the file license-ut-assert_nosa.pdf in this repo for more details.
 
 --------------------------------------------------------------------------------
 9. CONTACT
